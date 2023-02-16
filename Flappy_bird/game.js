@@ -1,4 +1,8 @@
 
+// Reza Shahbaziyan
+// ujin.js
+
+
 var cvs = document.getElementById("mycanvas");
 var ctx = cvs.getContext("2d");
 
